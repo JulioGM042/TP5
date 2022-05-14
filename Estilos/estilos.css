@@ -110,7 +110,7 @@ h2 {
     flex-wrap: wrap;
   }
   .primerajpg{
-      box-sizing:border-box;
+      align-self: center;
       height: 45vmin;
       width: 75vmin;
   }
