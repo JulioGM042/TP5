@@ -111,12 +111,12 @@ h2 {
   }
   .primerajpg{
       box-sizing:border-box;
-      height: 27vmin;
-      width: 45vmin;
+      height: 45vmin;
+      width: 75vmin;
   }
   .segundajpg{
-    height: 55vmin;
-    width: 30vmin;
+    height: 75vmin;
+    width: 45vmin;
   }
 }
 .primerajpg{
