@@ -102,7 +102,7 @@ h2 {
   font-weight: bolder;
   font-size: 1rem;
 }
-@media (min-width:300px){
+@media (min-width:350px){
   main{
     display: flex;
     justify-content: space-between;
@@ -110,19 +110,20 @@ h2 {
     flex-wrap: wrap;
   }
   .primerajpg{
-      align-self: center;
-      height: 45vmin;
-      width: 75vmin;
+      box-sizing:border-box;
+      height: 275px;
+      width: 450px;
   }
   .segundajpg{
-    height: 75vmin;
-    width: 45vmin;
+    height: 550px;
+    width: 275px;
   }
 }
 .primerajpg{
   box-sizing:border-box;
-  height: 275px;
-  width: 450px;
+  height: 27vmin;
+  width: 45vmin;
+  align-self: center;
 }
 main{
   margin: 1%;
@@ -191,8 +192,8 @@ aside{
   flex-wrap: wrap;
 }
 .segundajpg{
-  width: 550px;
-  height: 275px;
+  width: 55vmin;
+  height: 30vmin;
 }
 p{
   color:white;
